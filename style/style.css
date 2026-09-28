@@ -202,7 +202,10 @@ footer{
    ========================= */
 
 @media (max-width:900px){
-
+ul {
+    text-align: left;
+    padding-left: 25px;
+}
     .hero{
         padding:55px 25px;
     }
