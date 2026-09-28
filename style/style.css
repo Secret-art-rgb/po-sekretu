@@ -206,6 +206,10 @@ ul {
     text-align: left;
     padding-left: 25px;
 }
+
+li {
+    text-align: left;
+}
     .hero{
         padding:55px 25px;
     }
