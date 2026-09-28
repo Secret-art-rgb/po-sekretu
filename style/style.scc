@@ -237,7 +237,7 @@ footer{
     }
 
     .book-cover img{
-        max-width:240px;
+        max-width:180px;
     }
 
     section{
