@@ -151,24 +151,24 @@ section h2::after{
 
 .about-book p,
 .author p{
-    font-size:22px;
+    font-size:24px;
     color:#3f3f3f;
-    margin-bottom:24;
-max-width:1150px;
+    margin-bottom:26px;
+    line-height:1.85;
 }
 
 .reader ul,
 .inside ul{
-    padding-left:30px;
+    padding-left:32px;
 }
 
 .reader li,
 .inside li{
-    font-size:22px;
-    margin-bottom:16px;
+    font-size:24px;
+    margin-bottom:18px;
     color:#3f3f3f;
+    line-height:1.8;
 }
-
 /* =========================
    ПОКУПКА
    ========================= */
