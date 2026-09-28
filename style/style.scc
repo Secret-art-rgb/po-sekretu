@@ -207,10 +207,19 @@ footer{
         padding:55px 25px;
     }
 
-    .hero-content{
+   .hero-content{
+        width:100%;
         flex-direction:column;
         text-align:center;
         gap:45px;
+    }
+
+    .hero-text{
+        width:100%;
+    }
+
+    .book-cover{
+        width:100%;
     }
 
     .hero-text h1{
