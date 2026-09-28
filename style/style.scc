@@ -269,9 +269,11 @@ footer{
         max-width:340px;
     }
 .hero-text{
+    display:block;
     width:100%;
-    max-width:100%;
-    flex:none;
+    max-width:none;
+    flex:0 0 100%;
+    box-sizing:border-box;
 }
 
 .hero-text section{
